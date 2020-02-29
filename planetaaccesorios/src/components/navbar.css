@@ -1,0 +1,25 @@
+ul{
+    margin-top: 2.6em;
+    margin-bottom: 2.6em;
+    display: block;
+    list-style-type: none;
+    float: right;
+    width: 100%;
+}
+
+li{
+    float: right;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 55, 255);
+    margin: 1em;
+}
+
+li a:hover{
+    color: rgb(255,150,255);
+}
+
