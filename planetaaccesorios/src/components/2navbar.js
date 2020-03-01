@@ -3,7 +3,6 @@ import Navbar from 'react-bootstrap/Navbar'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-
 function Navegaci2on() {
     return(
         <div className='container'>
