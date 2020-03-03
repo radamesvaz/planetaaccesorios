@@ -1,12 +1,12 @@
 import React from 'react';
 import { Nav, Navbar, Form, Button, FormControl } from 'react-bootstrap';
 import logo from '../assets/logo.jpg';
+import './navbar.css'
 
 
 function Navigation() {
     return(
-        <div>
-             <Navbar bg="light" expand="lg" className="mtop">
+            <Navbar sticky="top" bg="light" expand="lg" className="mtop">
                 <Navbar.Brand href="#home"> <img alt='logo' style={{height: 55}} src={logo} />Planeta Accesorios</Navbar.Brand>
              <Navbar.Toggle aria-controls="basic-navbar-nav" />
              <Navbar.Collapse id="basic-navbar-nav">
@@ -22,7 +22,7 @@ function Navigation() {
                 </Form>
                 </Navbar.Collapse>
             </Navbar>
-        </div>
+        
     )
 }
 

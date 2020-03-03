@@ -2,7 +2,7 @@ import React from 'react'
 
 const Banner = () => {
     return(
-        <h1>Los orígenes del actual grupo Samsung se remontan al 1 de marzo de 1938. Ese día el empresario Lee Byung-chul (1910–1987) inauguró en Daegu una compañía de importación y exportación de productos perecederos a la que llamó Samsung Sanghoe (en coreano, «tres estrellas»).6​ Durante el tiempo que Corea estuvo ocupada por Japón, el principal negocio fue la venta de pescado seco y frutas a Manchukuo.7​ Al finalizar la Segunda Guerra Mundial, Corea recobró su independencia y Samsung prospera al ampliar su actividad al proceso de alimentos y fabricación de textiles.6​
+        <h1 style={{textAlign: "justify" }}>Los orígenes del actual grupo Samsung se remontan al 1 de marzo de 1938. Ese día el empresario Lee Byung-chul (1910–1987) inauguró en Daegu una compañía de importación y exportación de productos perecederos a la que llamó Samsung Sanghoe (en coreano, «tres estrellas»).6​ Durante el tiempo que Corea estuvo ocupada por Japón, el principal negocio fue la venta de pescado seco y frutas a Manchukuo.7​ Al finalizar la Segunda Guerra Mundial, Corea recobró su independencia y Samsung prospera al ampliar su actividad al proceso de alimentos y fabricación de textiles.6​
 
         En 1948, Lee formó una alianza con el empresario Cho Hong-jai para crear la filial Samsung Moolsan (actual Samsung C&T), dedicada al comercio y a la construcción.6​ No obstante, la empresa establece su fundación oficial en 1951, cuando la alianza queda rota por desavenencias entre ambas partes;7​ mientras Lee asume la marca Samsung, Cho fundaría una década más tarde el grupo Hyosung.8​
         
@@ -35,7 +35,7 @@ const Banner = () => {
         
         La empresa ha asumido dos crisis recientes en octubre de 2016. Por un lado, la guerra de pleitos entre Samsung Electronics y Apple por presunta violación de patentes en teléfonos inteligentes.24​ Y por otro lado, se vieron obligados a retirar del mercado todos los terminales Samsung Galaxy Note 7 por un fallo de fabricación.25​26​
         
-        En abril de 2018, el expresidente surcoreano Lee Myung-bak fue inculpado por la Fiscalía de una serie de delitos, entre ellos haber aceptado presuntamente un soborno de Samsung para que indultara a Lee Kun-hee, presidente de Samsung Group, condenado por evasión de impuestos.27​</h1>
+        En abril de 2018, el expresidente surcoreano Lee Myung-bak fue inculpado por la Fiscalía de una serie de delitos, entre ellos haber aceptado presuntamente un soborno de Samsung para que indultara a Lee Kun-hee, presidente de Samsung Group, condenado por evasión de impuestos.27​y​</h1>
     )
 }
 
